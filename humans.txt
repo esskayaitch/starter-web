@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    A nice message to the students.
 
 # TECHNOLOGY COLOPHON
 
