@@ -16,6 +16,8 @@ Some extra text to make a change to the file.
 
 ## How to contribute
 
+Please fork this repository annd then issue a Pull Request for review.
+
 ### Copyright
 
 This is a phantom copyright notice line 2021.
