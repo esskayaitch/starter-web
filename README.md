@@ -15,3 +15,7 @@ As above, just an excuse to save lots of Git changes for the git4geeks course.
 Some extra text to make a change to the file.
 
 ## How to contribute
+
+### Copyright
+
+This is a phantom copyright notice line 2021.
